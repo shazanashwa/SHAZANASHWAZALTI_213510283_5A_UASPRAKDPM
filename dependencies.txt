@@ -1,0 +1,10 @@
+npm init
+
+npm i express
+npm i nodemen
+npm i mongoose
+npm i cors
+npm i bcrypt
+npm i jsonwebtoken
+
+mongodb+srv://shaza1:admin1@cluster0.epuit2f.mongodb.net/?retryWrites=true&w=majority
